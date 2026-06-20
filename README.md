@@ -57,3 +57,5 @@ Pasos recomendados en VS Code:
 
 Este proyecto **no utiliza Node.js, npm ni frameworks**, y no requiere
 procesos de compilación.
+
+Validación inicial de Azure Pipelines.
